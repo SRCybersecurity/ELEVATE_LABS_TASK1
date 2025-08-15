@@ -54,8 +54,6 @@ Nmap is usually pre-installed on Kali Linux. To verify or install:
 7.Identify potential security risks from open ports.
  - Open vulnerable ports leads to exploitation. 
 ---
-Key Concepts: Port scanning, TCP SYN scan, IP ranges, network reconnaissance, open ports, network security basics
----
 THANK YOU
 
 END
